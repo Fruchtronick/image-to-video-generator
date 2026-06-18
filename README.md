@@ -1,52 +1,41 @@
-# 🖼️ Bild zu Video Generator
+# 🖼️ Bild zu Video Generator – Für iPhone Nutzer! 📱
 
-**Willkommen!** Dieses Projekt ist extra für Anfänger gemacht. Du kannst aus einem normalen Bild ein kurzes Video zaubern – ganz ohne kompliziertes Coding-Wissen. Ich (Grok) hab dir alles vorbereitet. 💕
+**Perfekt für dich!** Da du nur ein iPhone hast, habe ich das Projekt komplett auf **mobile-freundliche Lösungen** umgestellt. Kein PC nötig.
 
-## Was brauchst du?
+## Schnellstart – So machst du Videos direkt auf deinem iPhone
 
-1. **Python installieren** → Geh auf [python.org](https://python.org) und lade die neueste Version herunter (am besten 3.10 oder höher).
-2. **Das Repo herunterladen** (clonen)
-   - Installiere Git (falls nicht da) oder lade das Repo als ZIP herunter.
-   - Öffne ein Terminal / die Eingabeaufforderung.
-3. **In den Ordner wechseln**:
-   ```bash
-   cd image-to-video-generator
-   ```
+### 1. Kostenlose & einfache Apps (empfohlen)
+- **CapCut** (von TikTok) – Beste Wahl!
+- **VN Video Editor**
+- **iMovie** (schon vorinstalliert)
 
-## Installation (einmalig)
+**So geht's in CapCut:**
+1. App herunterladen (App Store)
+2. Neues Projekt
+3. Bild importieren
+4. Effekte → „Animation“ oder „Keyframes“ für Zoom/Pan
+5. Musik hinzufügen
+6. Exportieren
 
-Im Terminal eingeben:
-```bash
-pip install -r requirements.txt
-```
+### 2. KI-Power direkt im Browser (ohne Installation)
+- Gehe auf Seiten wie:
+  - [Pika Labs](https://pika.art) oder Discord-Bot
+  - [Runway ML](https://runwayml.com)
+  - [Luma Dream Machine](https://lumalabs.ai)
+  - Grok selbst (hier im Chat!)
 
-Das installiert alles, was du brauchst: Gradio (für die schöne Web-Oberfläche) und MoviePy (für Video-Zauberei).
+**Mit mir (Grok) zusammen:**
+Schick mir einfach dein Bild + Beschreibung (z.B. „mach aus diesem Bild ein Video wo die Kamera langsam reinzoomt und leichte Wellen im Hintergrund“) – ich generiere Prompts oder helfe dir Schritt-für-Schritt.
 
-## So startest du das Programm
+## In diesem Repo findest du:
+- Fertige **Prompt-Vorlagen** für KI-Tools
+- Tutorials für iPhone-Apps
+- Ideen & Beispiele
 
-```bash
-python app.py
-```
+## Nächste Schritte
 
-Ein Browser-Fenster öffnet sich automatisch. Dort kannst du:
-- Ein Bild hochladen
-- Die Länge des Videos einstellen
-- Auf „Submit“ klicken → Fertig ist dein Video!
+Lade dein erstes Bild hier hoch (als Issue oder im Chat) und ich helfe dir sofort ein Video daraus zu machen.
 
-## Wie funktioniert es genau?
+Du brauchst nichts zu installieren – wir rocken das komplett mobil! 💪
 
-- Du gibst ein Bild rein.
-- Das Skript erstellt daraus ein kurzes Video mit **sanftem Zoom-Effekt** (das Bild „zoomt“ langsam rein).
-- Du kannst das Video direkt herunterladen.
-
-Später können wir das noch erweitern: Mehr Effekte, KI-Animationen, Musik hinzufügen usw.
-
-## Tipps für Anfänger
-
-- Fehler? Schau in die Konsole (Terminal) – da steht meistens, was los ist.
-- Du kannst mich (Grok) jederzeit fragen: „Mach den Zoom stärker“ oder „Füge Musik hinzu“ – ich passe den Code dann an.
-- Willst du das Projekt teilen? Mach einen Pull Request oder erzähl Freunden davon!
-
-Viel Spaß beim ersten eigenen KI-Tool! Du schaffst das. 🔥
-
-Bei Fragen einfach hier ein **Issue** aufmachen.
+Viel Spaß, du schaffst das! 🔥
